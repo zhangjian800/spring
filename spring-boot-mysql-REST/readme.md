@@ -1,7 +1,7 @@
 ## Rest Example by Using MySQL in Spring Boot via Spring Data JPA and Hibernate
 
 See here for more informations:
-http://blog.netgloo.com/2014/10/27/using-mysql-in-spring-boot-via-spring-data-jpa-and-hibernate/
+https://github.com/zhangjian800/spring/tree/master/spring-boot-mysql-REST
 
 ### Build and run
 
